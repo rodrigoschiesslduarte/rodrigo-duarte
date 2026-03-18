@@ -19,7 +19,7 @@ Análise de dados para tomada de decisão
 # 💼 Projetos em destaque
 🔹 Sistema HDR
 
-Sistema de gestão de processos operacionais
+Site de vendas
 🔗 https://sistemahdr.com.br
 
 🔹 Plataforma B2B Metrominas
@@ -29,7 +29,7 @@ Solução para gestão e vendas B2B
 
 🔹 Consaúde Vale do Aço
 
-Plataforma digital na área da saúde
+Plataforma digital na área da saúde com foco em complice
 🔗 https://consaudevaledoaco.com.br
 
 🔹 Instituto Prolife
@@ -39,7 +39,7 @@ Site institucional
 
 🔹 Aplicativo Gerencial Melbras
 
-App para gestão e acompanhamento de dados
+App para gestão e acompanhamento de compras 
 🔗 https://go.glideapps.com/play/gscMeBMj8xE4CErkqWu3
 
 # 🎯 Objetivo
